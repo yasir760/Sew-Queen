@@ -25,9 +25,9 @@
 
 > If you do not have a Github account, create a new [Github](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) account
 
-> Now Click The [Fork](https://github.com/ravindu01manoj/Sew-Queen/fork)
+> Now Click The [Fork](https://github.com/yasir760/Sew-Queen/fork)
 
-> Now Copy This Url https://heroku.com/deploy?template=https://github.com/ravindu01manoj/Sew-Queen.git and change ravindu01manoj/Sew-Queen with your user name and repo name
+> Now Copy This Url https://heroku.com/deploy?template=https://github.com/yasir760/Sew-Queen.git and change ravindu01manoj/Sew-Queen with your user name and repo name
 
 > Now Deploy Sew Queen With Your Own Url.
 
